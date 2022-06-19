@@ -1,2 +1,2 @@
-# Pramodcn .Shoplane.github.io
+# Shoplane.github.io
 Edyoda js final assignment.
