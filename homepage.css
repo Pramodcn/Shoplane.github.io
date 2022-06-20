@@ -30,6 +30,9 @@
     .banner-wrapper{
       padding-top: 8%;
     }
+    #logo{
+      width: 0px;
+    }
     .nav-links {
       position: absolute;
       right: 0;
@@ -58,12 +61,12 @@
     }
     .burger {
       display: block;
+      margin-left: 7%;
     }
   }
   .nav-active {
     transform: translateX(0%);
-  }
-  
+  }  
 
 
 
